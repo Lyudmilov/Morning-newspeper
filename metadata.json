@@ -1,0 +1,6 @@
+{
+  "name": "Моят сутрешен вестник 07:00",
+  "description": "Ежедневен сутрешен вестник в 7:00 ч. по персонализирани категории с акцент върху бързооборотния сектор и дословен гласов четец на статии по номер.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
